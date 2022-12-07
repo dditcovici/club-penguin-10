@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.club_penguin_10">
+    package="com.daviditcovici.club_penguin_10">
    <application
         android:label="club_penguin_10"
         android:name="${applicationName}"
