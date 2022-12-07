@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
+import 'main_game/cp10_room.dart';
 
 void main() async {
   await Firebase.initializeApp(
@@ -17,10 +18,7 @@ class ClubPenguin10 extends StatelessWidget {
     return MaterialApp(
       title: 'Club Penguin 10',
       theme: ThemeData(primarySwatch: Colors.blue),
-      home: Scaffold(
-        appBar: AppBar(title: const Text('Club Penguin 10')),
-        body: const Center(child: Text('Hey!')),
-      ),
+      home: const CP10Room(),
     );
   }
 }
