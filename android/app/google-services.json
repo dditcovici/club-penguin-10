@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "625894473347",
+    "firebase_url": "https://club-penguin-10-62276-default-rtdb.firebaseio.com",
+    "project_id": "club-penguin-10-62276",
+    "storage_bucket": "club-penguin-10-62276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625894473347:android:03d32719109553e0dfe5b6",
+        "android_client_info": {
+          "package_name": "com.daviditcovici.club_penguin_10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625894473347-vsanreuustda6o7mb4r1hr37glv3813l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7OI1LwoZ2JAC6Xgze2zpun_CdobteOcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625894473347-vsanreuustda6o7mb4r1hr37glv3813l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625894473347-4r4uod9461a5fehocshh91ahnv2ot5g8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clubPenguin10"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>625894473347-pdk0i55vpihtgdiei049d2iu4p12n163.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.625894473347-pdk0i55vpihtgdiei049d2iu4p12n163</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBfLJQG6_wYTV26WrKrvFKVaqiiok7Q3RU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>625894473347</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.daviditcovici.clubPenguin10</string>
+	<key>PROJECT_ID</key>
+	<string>club-penguin-10-62276</string>
+	<key>STORAGE_BUCKET</key>
+	<string>club-penguin-10-62276.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:625894473347:ios:4c24266c52d6e1b0dfe5b6</string>
+</dict>
+</plist>
